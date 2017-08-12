@@ -29,7 +29,7 @@
 
 1.  您需要安装Node.js和Testacular来运行本项目，请到[Node.js][Node.js]官方网站下载并安装最新版，然后把node可执行程序路径添加到系统环境变量`PATH`中，完成后在命令行中运行一下命令可以查看是否安装成功：
 
-        node -version
+        node -v
 
     然后安装[Testacular][Testacular]单元测试程序，请运行如下命令：
 
